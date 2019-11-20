@@ -1,0 +1,3 @@
+[submodule "salesforce-audience-studio-event-pixel-template"]
+	path = salesforce-audience-studio-event-pixel-template
+	url = https://github.com/stormdigital/gtm-template-salesforce-audience-studio-event-pixel
